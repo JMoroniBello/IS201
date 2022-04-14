@@ -1,0 +1,56 @@
+body{
+    background-image: url("../images/tropicalbg.jpg");
+    background-position: center;
+    background-size: cover;
+}
+.headjcolor{
+color:rgb(79, 61, 26);
+}
+
+.greendrop{
+    color: lightseagreen;
+}
+.left{
+    text-align: left;
+}
+.buttonfont{
+    font-size: 12px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+    
+}
+.buttoncolor{
+    background-color:cadetblue;
+    border-color:beige;
+}
+.txtboxcolor{
+    background-color:beige;
+}
+.bgcolor1{
+    background-color: rgba(127, 255, 212, 0.501);
+    
+}
+.bgcolor2{
+    background-color: rgba(245, 245, 220, 0.699);
+}
+.bgcolor3{
+    background-color:rgba(100, 148, 237, 0.799) ;
+}
+.footertext{
+    color: rgb(90, 102, 115);
+    font-size: 25px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.navtext{
+    color: black;
+    font-size: 25px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.maintext{
+    color: darkslategrey;
+}
+.picturesize{
+    width: 500px;
+}
+.pictureright{
+    left: 800px;
+}
